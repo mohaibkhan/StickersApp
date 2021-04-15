@@ -36,5 +36,5 @@ public class ActivityDisplayImage extends AppCompatActivity {
             e.printStackTrace();
         }
         image.setImageBitmap(bmp);
-    }
+    }                  //commt pakistan zindabad
 }
