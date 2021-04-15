@@ -36,7 +36,7 @@ public abstract class BaseActivity extends AppCompatActivity {
             fragment.setArguments(arguments);
             return fragment;
         }
-        //check github in system
+        //check github in
 
         @NonNull
         @Override
